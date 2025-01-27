@@ -6,5 +6,6 @@
 # 5. A pull request is used to make sure that the code that you changed is okay before it gets put into the code. This is to avoid breaking all of the code and allows you to keep track of what caused the break in code. To submit a pull request you need to make a change in a branch and then submit a pull request by clicking "create a pull request"
 # 6. Issues help other coders help each other figure out their issues with their code, can help inspire coders new ways to solve their code issues, and it can assist in checking if their code works constantly 
 # 7. A commit message is important because they help the owner of the project understand what is being changed so they can navigate the code easier for changes and have a deeper understanding of the goal of the new code. For example, when we configured the intake in robotics I made the message "configuring intake" 
-# 8. Branches ensure that the code that someone changes aren't going to immediately change the main code and potentially ruin it. 
-
+# 8. Branches ensure that the code that someone changes aren't going to immediately change the main code and potentially ruin it. They also let multiple people work on the code at once.
+# 9. README files allow for people to read how your code is used, what can be done with it, and ways it can be useful
+# 10. You can engage with the community via issues in order to fix code issues, community repositories for coding feedback, and discussions to further discuss aspects of your code
